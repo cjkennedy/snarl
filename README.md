@@ -1,4 +1,4 @@
-snarl-MelonBot
+snarl--MelonBot
 =====
 
 snarl-MelonBot is a bot for the RMS room on plug.dj. Originally designed by http://snarl.ericmartindale.com
