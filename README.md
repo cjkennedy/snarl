@@ -1,7 +1,7 @@
-snarl
+snarl-MelonBot
 =====
 
-snarl is a bot designed for the [Coding Soundtrack Music Room](http://snarl.ericmartindale.com) on plug.dj.
+snarl-MelonBot is a bot for the RMS room on plug.dj. Originally designed by http://snarl.ericmartindale.com
 
 # Requirements
 The following things need to be installed in your environment to proceed.
